@@ -13,6 +13,6 @@ Name = "prema"
 }
 
 resource "aws_s3_bucket" "two" {
-bucket = "high"
+bucket = "pro123"
 }
 
